@@ -8,7 +8,7 @@ namespace UnityMeshDecimation.UI {
     public class MeshDecimationEditor : EditorWindow {
 
         private static MeshDecimationEditor Window { get; set; }
-        [MenuItem("Window/Unity Mesh Decimation")]
+        [MenuItem("Mesh+Bones/Unity Mesh Decimation")]
         static void Init() {
             if (Window == null) {
                 Window = EditorWindow.GetWindow<MeshDecimationEditor>("Unity Mesh Decimation", true);

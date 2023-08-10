@@ -1,7 +1,5 @@
 # UnityMeshDecimation
 
-[中文版說明](./README_tc.md)
-
 Mesh Decimation for [Unity](https://unity.com/).
 
 This project is based on [vcglib tridecimator](https://github.com/cnr-isti-vclab/vcglib/tree/master/apps/tridecimator) but rewritten for Unity Mesh and add other features.
@@ -9,22 +7,13 @@ This project is based on [vcglib tridecimator](https://github.com/cnr-isti-vclab
 ![Input](./readme_assets/overview.png)
 Charizard © Pokémon Ltd
 
-## Compatibility
-
-Only tested with below versions but may be compatible with other versions.
-
-| Version
-|------
-| Unity 2018.4.x
-| Unity 2020.3.x
-
 ## Usage
 
-Use whole project or copy `Assets/UnityMeshDecimation` to your project
+Clone the repo to your Assets folder
 
 ### GUI
 
-Open tool from menu `Window/Unity Mesh Decimation`
+Open tool from menu `Mesh+Bones/Unity Mesh Decimation`
 
 + Input Mesh
 
